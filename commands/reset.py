@@ -1,1 +1,0 @@
-descrip = "Deletes All Channels. Requires Owner's Permission"
